@@ -1,0 +1,3 @@
+[submodule "Java_project"]
+    path = Java_project
+    url = https://github.com/username/Java_project.git
